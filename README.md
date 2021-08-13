@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sirfredy
+- 👋 Hi, I’m fredrick mutua
 - 👀 I’m interested in PHP, JAVASCRIPT, LARAVEL, JQUERY
 - 🌱 I’m currently learning LARAVEL
 - 💞️ I’m looking to collaborate on any php project
